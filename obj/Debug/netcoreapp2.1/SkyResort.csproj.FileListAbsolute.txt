@@ -1,0 +1,10 @@
+/Users/edisonmojica/Downloads/SkyResort/SkyResort/bin/Debug/netcoreapp2.1/SkyResort.deps.json
+/Users/edisonmojica/Downloads/SkyResort/SkyResort/bin/Debug/netcoreapp2.1/SkyResort.runtimeconfig.json
+/Users/edisonmojica/Downloads/SkyResort/SkyResort/bin/Debug/netcoreapp2.1/SkyResort.runtimeconfig.dev.json
+/Users/edisonmojica/Downloads/SkyResort/SkyResort/bin/Debug/netcoreapp2.1/SkyResort.dll
+/Users/edisonmojica/Downloads/SkyResort/SkyResort/bin/Debug/netcoreapp2.1/SkyResort.pdb
+/Users/edisonmojica/Downloads/SkyResort/SkyResort/obj/Debug/netcoreapp2.1/SkyResort.csproj.CoreCompileInputs.cache
+/Users/edisonmojica/Downloads/SkyResort/SkyResort/obj/Debug/netcoreapp2.1/SkyResort.AssemblyInfoInputs.cache
+/Users/edisonmojica/Downloads/SkyResort/SkyResort/obj/Debug/netcoreapp2.1/SkyResort.AssemblyInfo.cs
+/Users/edisonmojica/Downloads/SkyResort/SkyResort/obj/Debug/netcoreapp2.1/SkyResort.dll
+/Users/edisonmojica/Downloads/SkyResort/SkyResort/obj/Debug/netcoreapp2.1/SkyResort.pdb
